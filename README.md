@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/Nabster2010/Expenses-chart-component)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://stellular-meerkat-b4e541.netlify.app/)
 
 ## My process
 
